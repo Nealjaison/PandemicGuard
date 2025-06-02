@@ -1,0 +1,6 @@
+region,fever_reports,hospital_admissions,lab_confirmed_cases,symptom_cluster
+Asia,134,45,12,respiratory
+Europe,98,33,8,gastro
+Africa,76,20,5,respiratory
+Asia,210,60,20,fever
+Europe,156,40,11,rash

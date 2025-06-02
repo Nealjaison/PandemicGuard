@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# LaTeX intermediate files
+*.aux
+*.log
+*.out
+*.toc
+*.gz
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.blg
+*.bbl
+
+# Data files (optional — uncomment if you want to exclude these)
+# *.csv
+# *.tsv
+# *.xls
+# *.xlsx
+# *.json
+
+# Trained models
+*.h5
+*.pkl
+*.joblib
+*.pt
+*.onnx
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+env.bak/
+env/
+
+# VS Code / PyCharm
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Output files
+*.pdf
+*.zip
+*.tar.gz
+
+# Ignore secret keys or credentials if present
+secrets.json
+config.yaml
+api_keys.txt

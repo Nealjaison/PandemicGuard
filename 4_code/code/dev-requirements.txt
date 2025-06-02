@@ -1,0 +1,5 @@
+black>=23.3.0        # Code formatter
+flake8>=6.0.0        # Linting
+jupyter>=1.0.0       # Notebook support
+pytest>=7.2.0        # Testing framework
+python-dotenv>=1.0.0 # For .env configs

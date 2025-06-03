@@ -131,7 +131,7 @@ Email: nealjaison@gmail.com
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/yourusername/PandemicGuard.git
+git clone https://github.com/Nealjaison/PandemicGuard.git
 cd PandemicGuard
 pip install -r requirements.txt
 streamlit run src/dashboard_app.py

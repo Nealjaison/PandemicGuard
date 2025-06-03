@@ -1,3 +1,5 @@
+![PandemicGuard](banner.png) 
+```
 # 🛡️ PandemicGuard: An AI-Powered Framework For Early Detection , Prediction And Prevention Of Future Global Pandemics Via Multimodal Surveillance
 
 >**“The next epidemic won’t wait for a headline. It will start silently. Our duty is to hear it before the world does.”-PandemicGuard Project
